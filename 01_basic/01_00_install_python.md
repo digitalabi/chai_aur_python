@@ -16,6 +16,7 @@ After installation is completed, check if the installation is successful or not
   python --version
   ```
   - If python is installed properly, it will gave you the version of python else gave the error
+  
   ![Alt text](/images/01_python_install_verification.png)
 
 
@@ -59,13 +60,19 @@ After installation of vs code is completed, we need to add python extension.
 - Once download is completed installation is straight forward
   - read terms and conditions and do next
   - select the location where you want to install and do next
-  - leave all the component selected as it is and do next 
+  - leave all the component selected as it is and do next
+
   ![Alt text](/images/01_select_git_component.png)
+
   - chooseing the default editor used by Git, select Use Visual Studio Code as Git's default editor
-    ![Alt text](/images/01_git_default_editor.png)
+
+  ![Alt text](/images/01_git_default_editor.png)
+
   - Adjusting the name of initial branch, leave default and do next
   - Adjusting your PATH envionment, leave default selection and do next
+
   ![Alt text](/images/01_git_path.png)
+  
   - Choosing HTTPS transport backend, leave default selection and do next
   - Configuring the line editing conversions, leave default selection and do next
   - Configuring the terminal emulator to use with Git Bash, leave default selection and do next
