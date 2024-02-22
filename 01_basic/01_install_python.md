@@ -4,7 +4,8 @@
 - Choose your operating system, basically website will detect your machine, but be sure what you are downloading
 
 - Installation is straight forward, check the add PATH
-![Alt text](01_python_installation.png)
+
+![Alt text](/images/01_python_installation.png)
 
 ### verify installation
 After installation is completed, check if the installation is successful or not
@@ -14,7 +15,7 @@ After installation is completed, check if the installation is successful or not
   python --version
   ```
   - If python is installed properly, it will gave you the version of python else gave the error
-  ![Alt text](01_python_install_verification.png)
+  ![Alt text](/images/01_python_install_verification.png)
 
 
 Python could be written in notepad :) but we will be using VS Code as our IDE
@@ -31,7 +32,7 @@ https://code.visualstudio.com/Download
         - add to PATH
 
 
-![Alt text](01_install_vscode.png)
+![Alt text](/images/01_install_vscode.png)
 
 After installation of vs code is completed, we need to add python extension.
 ### Add python extension
@@ -40,12 +41,12 @@ After installation of vs code is completed, we need to add python extension.
 - Select Python extension by Microsoft
 - It will open detail window in right, click on install button
   
-  ![Alt text](01_install_extension.png) 
+  ![Alt text](/images/01_install_extension.png) 
 
 - After installation is completed 3 extension will be installed.
     - Python
     - Python Debugger
     - Pylance
     
-    ![Alt text](01_installed_extension.png)
+    ![Alt text](/images/01_installed_extension.png)
 
