@@ -85,3 +85,6 @@ hello_chai.chai_one
 - NameError:
 - AttributeError:
 - IndentationError:
+
+Reference video:
+https://www.youtube.com/watch?v=OEKrDogH5ew
