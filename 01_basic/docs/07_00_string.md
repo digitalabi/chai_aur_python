@@ -1,7 +1,7 @@
 # String
-'string'
-"string"
-"""String"""
+    'string'
+    "string"
+    """String"""
 
 ```python
 chai = "Masala chai"
